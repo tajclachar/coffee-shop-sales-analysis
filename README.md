@@ -32,10 +32,10 @@ It’s designed to simulate a real analytics case study — clean code, clear vi
 ---
 
 ## 📊 Key Visuals  
-!../visual/[Revenue by Product Category](visuals/Revenue_by_Product_Category.png)  
-![Hourly Sales Trend](visuals/Hourly_Sales_Trend.png)  
-![Store Performance](visuals/Total_Revenue_by_Store.png)  
-![Average Daily Revenue](visuals/Average_Daily_Revenue.png)  
+![Revenue by Product Category](visual/Revenue_by_Product_Category.png)  
+![Hourly Sales Trend](visual/Hourly_Sales_Trend.png)  
+![Store Performance](visual/Total_Revenue_by_Store.png)  
+![Average Daily Revenue](visual/Average_Daily_Revenue.png)  
 
 ---
 
