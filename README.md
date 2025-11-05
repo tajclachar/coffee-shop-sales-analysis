@@ -1,7 +1,5 @@
 # ☕ Coffee Shop Sales Analysis  
-# ☕ Coffee Shop Sales Analysis  
 🔗 **Live Report:** [View Full Analysis Here](https://tajclachar.github.io/coffee-shop-sales-analysis/)
-### End-to-End Business Analytics Project
 ### End-to-End Business Analytics Project  
 
 This project analyzes real-world–style transactional data from a **fictional New York coffee chain** to uncover sales trends, identify high-performing stores, and recommend data-driven strategies for staffing and marketing.  
@@ -34,7 +32,7 @@ It’s designed to simulate a real analytics case study — clean code, clear vi
 ---
 
 ## 📊 Key Visuals  
-![Revenue by Product Category](visuals/Revenue_by_Product_Category.png)  
+!../visual/[Revenue by Product Category](visuals/Revenue_by_Product_Category.png)  
 ![Hourly Sales Trend](visuals/Hourly_Sales_Trend.png)  
 ![Store Performance](visuals/Total_Revenue_by_Store.png)  
 ![Average Daily Revenue](visuals/Average_Daily_Revenue.png)  
